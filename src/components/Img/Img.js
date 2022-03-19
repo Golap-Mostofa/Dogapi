@@ -23,11 +23,11 @@ const Prodact =(props)=>{
     return(
             <div className="col-lg-3 text-center p-2 m-5 color">
                 <img className='w3' src={props.image} alt="" />
-                <h4>{props.category}</h4>
+                <h4 className='text-primary fs-5'>{props.category}</h4>
                 <p><sub>{props.description.slice(0,100)}</sub></p>
                 <div className="d-flex justify-content-around calu">
-                <a href="">price</a>
-                <a href="">add </a>
+                <a href="">price :{props.price}</a>
+                <a href="">add to card</a>
                 </div>
             </div>
     )
