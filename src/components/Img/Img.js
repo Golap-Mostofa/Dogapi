@@ -25,7 +25,7 @@ const Prodact =(props)=>{
                 <img className='w3' src={props.image} alt="" />
                 <h4>{props.category}</h4>
                 <p><sub>{props.description.slice(0,100)}</sub></p>
-                <div className="d-flex justify-content-around">
+                <div className="d-flex justify-content-around calu">
                 <a href="">price</a>
                 <a href="">add </a>
                 </div>
