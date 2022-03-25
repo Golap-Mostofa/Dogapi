@@ -1,0 +1,14 @@
+.allCard-products{
+    display: grid;
+    grid-template-columns:4fr 1fr ;
+}
+.card-products{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin: 100px 30px ;
+}
+.item-products{
+    height: 20%;
+    background-color: aqua;
+}

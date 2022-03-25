@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1",
+    "Name": "suzuki",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://images.carandbike.com/bike-images/gallery/honda/cbr-150r/exterior/bike-img.png"
+    
+  },
+  {
+    "id": "2",
+    "Name": "yamaha",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=8"
+    
+  },
+  {
+    "id": "3",
+    "Name": "TVS Apache RTR 160",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://images.pexels.com/photos/2611675/pexels-photo-2611675.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+    
+  },
+  {
+    "id": "4",
+    "Name": "Royal Enfield Scram 411",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "http://www.girasol.bike/RS400/GIRASOL%20RS400-BIKE-BLK.JPG"
+    
+  },
+  {
+    "id": "5",
+    "Name": "TVS Apache RTR 160 4V",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://srivarumotors.com/wp-content/uploads/2021/01/BLACK_Prana1.jpg"
+    
+  },
+  {
+    "id": "6",
+    "Name": "Royal Enfield Classic 350",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://cdn.autoportal.com/bp-v3/img/models/1b/a/yamaha-yzf-r1-2018-1513151262.jpeg"
+    
+  },
+  {
+    "id": "7",
+  
+    "Name": "ZigWheels",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://static.autox.com/uploads/2017/01/KTM-RC200-Photo4.jpg"
+    
+  },
+  {
+    "id": "8",
+    "Name": "Bicycle 2 Work",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://www.onmanorama.com/content/dam/mm/en/news/business/images/2021/7/4/prana-9.jpg"
+    
+  },
+  {
+    "id": "9",
+    "Name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://www.srivarumotors.com/wp-content/themes/srivarumotors/bike_images/grand/black/04.png"
+    
+  },
+  {
+    "id": "10",
+    "Name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://srivarumotors.com/wp-content/themes/srivarumotors/images/Image-between-banner-and-slider-scaled.jpg"
+    
+  },
+  {
+    "id": "11",
+    "Name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://www.financialexpress.com/wp-content/uploads/2021/01/svm-prana.jpeg"
+    
+  },
+  {
+    "id": "12",
+    "Name": "ULTRABOOST 22 SHOES",
+    "price": 420,
+    "quantity": 0,
+    "ratings": 4,
+    "ratingsCount": 3725,
+    "img": "https://www.bikes4sale.in/pictures/default/svm-prana-elite/svm-prana-elite-pic-1.jpg"
+    
+  }
+  
+]
